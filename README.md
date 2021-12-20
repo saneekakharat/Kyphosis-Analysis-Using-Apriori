@@ -1,1 +1,1 @@
-Performed Analysis of Kyphosis which is a curvature of the spine measuring 50 degrees or greater on an X-ray. The analysis was done using Decision Tree Algorithm on a dataset which consisted of X-Rays of the spine of various people.
+Performed Analysis of Kyphosis which is a curvature of the spine measuring 50 degrees or greater on an X-ray. Analysis was done using Decision Tree Algorithm on a dataset which consisted of X-Rays of the spine of various people. 
